@@ -3,17 +3,18 @@
     font-family: Verdana, DejaVu-Sans, sans-serif;
 }
 
+ /* I guess I could've also used p instead of the class "odd" */
+
 #two {
     color: #0505c0;
     font-size: 36px;
 }
 
-#three {
+.font-size-24 {
     font-size: 24px;
 }
 
 #four {
     background-color: #53ff6a;
-    font-size: 24px;
     font-weight: bold;
 }
